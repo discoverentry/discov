@@ -1,4 +1,4 @@
-@import url('http://fonts.googleapis.com/earlyaccess/nanumgothic.css');
+@import url('https://cdn.rawgit.com/moonspam/NanumSquare/master/nanumsquare.css');
 
 
 .titl {
@@ -69,5 +69,5 @@ p {
 }
 body {
     margin: 0;
-    font-family:"Montserrat","Nanum Square","NanumSquare", sans-serif !important; letter-spacing:0px !important;
+    font-family: 'NanumSquare', sans-serif !important;
 }
