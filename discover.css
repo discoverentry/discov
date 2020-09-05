@@ -1,6 +1,9 @@
 @import url('https://cdn.rawgit.com/moonspam/NanumSquare/master/nanumsquare.css');
 
-
+body {
+    margin: 0;
+    font-family: 'NanumSquare', sans-serif !important;
+}
 .titl {
     padding: 0;
     width: screen;
@@ -67,7 +70,4 @@ p {
     margin-top: -30px;
     cursor: pointer;
 }
-body {
-    margin: 0;
-    font-family: 'NanumSquare', sans-serif !important;
-}
+
